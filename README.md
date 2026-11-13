@@ -138,22 +138,7 @@ For me, programming isn't just about writing code — it's about **thinking diff
 
 <hr>
 
-## `05` — GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=promaruf&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=BDBDBD&icon_color=FFFFFF&rank_icon=github" height="165" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=promaruf&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=BDBDBD" height="165" alt="Most-used languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=promaruf&theme=transparent&hide_border=true&ring=FFFFFF&fire=BBBBBB&currStreakLabel=FFFFFF&sideLabels=BDBDBD&dates=888888" width="90%" alt="GitHub contribution streak"/>
-
-</div>
-
-<hr>
-
-## `06` — Beyond the Terminal
+## `04` — Beyond the Terminal
 
 <table>
 <tr>
@@ -192,7 +177,7 @@ Good music, time with family and friends, and discovering new places.
 
 <hr>
 
-## `07` — Find Me Online
+## `05` — Find Me Online
 
 <div align="center">
 
